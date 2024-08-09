@@ -10,7 +10,6 @@
 **/.rts2_cache_system
 *.swp
 packages/cli/forestry/.env
-*.tgz
 .DS_Store
 **/docs/
 .idea/
